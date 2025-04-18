@@ -11,4 +11,4 @@ We share:
 🧠 Smart strategies to stay ahead
 
 Stay early. Stay informed. Stay ahead.
-Follow the alpha → testnet.blog ✨
+Follow the alpha → https://testnet.blog ✨
